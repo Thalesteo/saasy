@@ -30,7 +30,7 @@ for develoment run on a terminal window run:
 
 ```
 yarn watch
-or
+// or
 npm run watch
 ```
 
@@ -38,7 +38,7 @@ this will recompile sass and typescript on every change, alternativaly you can r
 
 ```
 yarn dev
-or
+// or
 yarn prod
 ```
 
